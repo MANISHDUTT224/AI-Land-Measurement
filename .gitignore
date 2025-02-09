@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment-specific settings
+*.log
+.env
