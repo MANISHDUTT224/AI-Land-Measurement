@@ -1,0 +1,2 @@
+n="hello"
+print(n)
